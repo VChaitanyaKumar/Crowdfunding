@@ -30,9 +30,6 @@ Hosting: Vercel
 Why This Project?
 This project was developed as part of the Winter Project event by AASF IIITM. It was inspired by the need for a dedicated crowdfunding platform for the ROTARACT CLUB at IIITM. The goal was to create a user-friendly and transparent system that makes fundraising simple while ensuring safe and efficient transactions.
 
-Live Demo
-🔗 Try it here: Crowdfunding App
-
 How to Set Up
 Prerequisites:
 Install Node.js & npm
